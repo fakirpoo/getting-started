@@ -29,7 +29,7 @@ def welcome_assignment_answers(question):
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue and catch errors
         answer = "This is not my beautiful wife! This is not my beautiful car! How did I get here?"
-    return (answer)
+    return ("i'm dreaming")
 
 
 # Complete all the questions.
