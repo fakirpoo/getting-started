@@ -46,10 +46,7 @@ if __name__ == "__main__":
                     "NYU email and use the answer in your code - ", "Is MD5 a secured hashing algorithm? - Yes/No", "What layer of "
     "the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number", "What layer of the "
     "TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number")
-    for debug_question in questions:
-        print(debug_question)
-        print(welcome_assignment_answers(debug_question))
-        print('_________________________________________')
+    print(welcome_assignment_answers(debug_question))
     
 
 # Questions:
